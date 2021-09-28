@@ -1352,25 +1352,30 @@ a {
 .cid-syEjMErTlh H3 {
   text-align: center;
 }
-.cid-sxNoo9TO9A {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+.cid-sKkYOHyw5V {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-sxNoo9TO9A .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
+.cid-sKkYOHyw5V .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
 }
-.cid-sxNoo9TO9A form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
+.cid-sKkYOHyw5V .card-wrapper {
+  padding: 3rem;
+  background: #fafafa;
+  border-radius: 4px;
 }
-.cid-sxNoo9TO9A form .mbr-section-btn .btn {
-  display: inline-flex;
+@media (max-width: 992px) {
+  .cid-sKkYOHyw5V .card-wrapper {
+    margin-bottom: 2rem;
+  }
 }
-@media (max-width: 991px) {
-  .cid-sxNoo9TO9A form .mbr-section-btn .btn {
-    width: 100%;
+@media (max-width: 767px) {
+  .cid-sKkYOHyw5V .card-wrapper {
+    padding: 3rem 1rem;
   }
 }
 .cid-sxNqu4cLPc {
